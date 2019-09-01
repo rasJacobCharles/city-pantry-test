@@ -16,9 +16,13 @@ Usage:
   
   Arguments:
     day                   Date of order
+    
     time                  Time of order
+    
     location              Location of order
+    
     covers                Number of people covered
+    
     filename              Input file (Optional)
 
 
