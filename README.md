@@ -10,11 +10,12 @@ To set up project local run `composer install` inside the project directory.
 
  To Run all the test `bin/phpunit`  
 
-Usage:
+### Usage:
 
   ```app:search-db <day> <time> <location> <covers> [<filename>]```
   
-  Arguments:
+### Arguments:
+  
     day                   Date of order
     
     time                  Time of order
